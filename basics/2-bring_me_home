@@ -1,2 +1,4 @@
 #!/bin/bash
-chmod u+x "add 2-bring_me_home"
+cd "$(getent passwd "$(whoami)" | cut -d: -f6)"
+
+
