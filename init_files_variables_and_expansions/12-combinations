@@ -1,2 +1,2 @@
 #!/bin/bash
-for a in {a..z};do for b in {a..z}
+echo $ ((az ** aa -oo))
