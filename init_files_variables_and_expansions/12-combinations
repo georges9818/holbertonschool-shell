@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $ ((az * aa))
+echo {a..z}{a..z} | tr " " "  | grep -v oo
